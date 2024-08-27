@@ -1,0 +1,1 @@
+Repository for learning and implementing Spring Cloud Gateway. Includes design and configuration, advanced routing strategies, API security with Spring Security, traffic monitoring, and integration with load balancing mechanisms for a robust microservices architecture.
